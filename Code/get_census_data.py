@@ -64,4 +64,4 @@ def get_pop_data(out_dir):
 
 
 out_dir="/Users/hlamba/Documents/DSSG/Project_Week1/AgentSmith/Data/"
-get_pop_data(out_dir)    
+get_pop_data(out_dir)
